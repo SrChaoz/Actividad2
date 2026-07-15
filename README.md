@@ -93,7 +93,7 @@ Tracker y semillas registradas:
 
 Descargador recibiendo la lista de peers y reconstruyendo el archivo:
 
-![Descargador y verificación](image%20copy.png)
+![Descargador y verificación](image%20copia.png)
 
 ### Respuestas
 
